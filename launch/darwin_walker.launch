@@ -1,0 +1,5 @@
+<launch>
+
+  <node name="walker" pkg="darwin_gazebo" type="walker.py" />
+
+</launch>
